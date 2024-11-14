@@ -36,14 +36,6 @@ The generated application will be built from the **SAP Cloud Application Program
   - [Exercise 2.2 Launching the SAP Fiori tools AI Project Accelerator with image input](exercises/ex2#exercise-22-launching-the-sap-fiori-tools-ai-project-accelerator-with-image-input)
   - [Exercise 2.3 Previewing the generated application](exercises/ex2#exercise-23-previewing-the-generated-application)
 
-- [Exercise 3 - Generate an SAP Fiori app using images and text](exercises/ex3#exercise-3---generate-an-sap-fiori-elements-application-using-images-and-text)
-  - [Exercise 3.1 Uploading the business requirement document with images](exercises/ex3#exercise-31-uploading-the-business-requirement-document-with-images)
-  - [Exercise 3.2 Reviewing the generate application from a business requirement document with images](exercises/ex3#exercise-32-reviewing-the-generate-application-from-a-business-requirement-document-with-images)
-
-- [Optional Exercise 4 - Other sample images for generation](exercises/ex4#exercise-4---other-sample-images-for-generation)
-  - [Exercise 4.1 Using the other sample images](exercises/ex4#exercise-41-using-the-other-sample-images)
-  - [Exercise 4.2 Use your own images/sketches](exercises/ex4#exercise-42-use-your-own-imagessketches)
-
 - [Exercise 5 - Generate and enhance an app](exercises/ex5#exercise-5---generate-and-enhance-an-app)
   - [Exercise 5.1 Generate your app](exercises/ex5#exercise-51-generate-your-app)
   - [Exercise 5.2 Enhance your app](exercises/ex5#exercise-52-enhance-your-app)
