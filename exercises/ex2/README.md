@@ -100,4 +100,4 @@ Click on the **Explorer** icon and you should have a new folder for the project 
 
 You've now successfully generated a SAP Fiori app using a sketch of the application you'd like to generate
 
-Continue to - [Exercise 3 - Generate an SAP Fiori app using images and text](../ex3/README.md)
+Continue to - [Exercise 5 - Generate an SAP Fiori app using images and text](../ex5/README.md)
