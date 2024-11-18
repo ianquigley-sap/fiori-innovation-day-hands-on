@@ -11,33 +11,15 @@ Navigate to https://lcapteched.eu10.build.cloud.sap/lobby
 
 ## Accessing the Dev Space Manager
 
-On the SAP Build landing page, click button **Switch Product** in the top right corner and select **Dev Space Manager**.
+On the SAP Build landing page, click button **Switch Product** in the top right corner and select **Dev Space Manager**.<br>
 ![Access Dev Space Manager](ex0img0.png)
-## Creating the Development Space
 
-<span style="color:red">Your dev space has been precreated for the hands-on session.
-If your dev space manager shows FioriAppsGenAI, continue directly with step </span> [Opening the Development Space](#opening-the-development-space)
-
-If the **Welcome to** landing page is shown instead, you have to create a new dev space as follows.
-
-
-Click on the button **Create Dev Space**.
-
-![Create Dev Space](ex0img1.png)
-
-Enter a name for your development space and select application profile **Full Stack Cloud Application**.
-
-![Select Profile](ex0img2.png)
-
-In the lower right corner of the page press button **Create Dev Space**.
-
-![Confirm](ex0img3.png)
 
 ## Opening the Development Space
 
-Make sure your development space has status running. If stopped, click the start button. 
+Make sure your development space has status running. If stopped, click the start button. <br>
 ![Restart Dev Space](ex0img4a.png)
-Once running, click on the development space name to open it.  This can take some time.
+Once running, click on the development space name to open it.  This can take some time.<br>
 
 ![Enter Dev Space](ex0img4.png)
 
