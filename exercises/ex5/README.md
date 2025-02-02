@@ -14,7 +14,7 @@ Navigate to you explorer in the business application studio and look for the **T
 
 The Preview should look like this:
 
-![image](ex5img2.png)
+![image](ex5img2_2.png)
 
 1. Next, navigate to **SAP Fiori** in your Business Application Studio menu on the left side.
 2. Click on **Choose file (md, txt, jpg)**
