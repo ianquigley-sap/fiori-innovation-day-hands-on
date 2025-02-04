@@ -14,6 +14,16 @@ Navigate to https://lcapteched.eu10.build.cloud.sap/lobby
 On the SAP Build landing page, click button **Switch Product** in the top right corner and select **Dev Space Manager**.<br>
 ![Access Dev Space Manager](ex0img0.png)
 
+Creating the Dev-Space
+
+![Create Dev Space](ex0img1.png)
+
+Enter a name for your development space and select application profile Full Stack Cloud Application.
+
+![image](ex0img2.png)
+
+In the lower right corner of the page press button Create Dev Space. <br>
+![image](ex0img3.png)
 
 ## Opening the Development Space
 
