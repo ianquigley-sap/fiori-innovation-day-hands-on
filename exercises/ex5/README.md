@@ -189,7 +189,11 @@ Press the **Delete** button ![](image10.png) to delete section **Bookings**.
 
 ![](image9.png)
 
+If you run into the following Error, please reload BAS: <br>
+**STRG + R (Windows)**<br>
+**Command + R (Mac)** <br> 
 
+![](image92.png)
 
 Next click on the **Add Sections** ![](image14.png) menu item.
 
