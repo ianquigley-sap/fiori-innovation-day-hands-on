@@ -26,10 +26,16 @@ Click **Generate**
 
 ![image](ex3img4.png)
 
-Once the app has been successfully generated you should see a **Accept Project** and **Preview** button.
-Please click now the **Preview** button to open up the app in a preview tab.
+Once the app has been successfully generated
+1. Navigate back to the file explorer.
+2. Open the context menu using right click on the newly generated project.
+3. Then click **Preview Application**.
 
 ![image](ex3img5.png)
+
+Select the **watch** option when prompted
+
+![image](ex3img5-2.png)
 
 The preview of the newly generated app should look like the following picture.
 
@@ -38,11 +44,15 @@ The preview of the newly generated app should look like the following picture.
 ## Exercise 3.2 Enhance your app
 
 As a next step we want to enhance our AI generated app. To do this switch back from your **Preview** tab in your browser to your **Business Application Studio** tab again. 
-Now look for your **Staging Area** section in the left hand navigation. Now hover your mouse over **STAGING AREA** to reveal the **App Modeler** button. Please press **Start App Modeler**.
+
+1. Now, navigate to **SAP Fiori** in your Business Application Studio menu on the left side.
+2. Open the **Application Modeler** section
+3. Expand your project until you see **Map**
+4. Click on **Map** to open it
 
 ![image](ex3img7.png)
 
-Now you can see the page map for our AI generated Travel app. Please check if you can see the **AI Generator staging area** sign up top. If this is the case, press the edit button on the list report.
+Now you can see the page map for our AI generated Travel app. Please check if you can see the **Advanced Features Are Enabled** sign up top. If this is the case, press the edit button on the list report.
 
 ![image](ex3img8.png)
 
@@ -89,7 +99,7 @@ In the Columns section you now can see our newly added column (Business & Destin
 
 ![image](ex3img18.png)
 
-Once this is done, we want to preview the app again to see the newly created columns in action. Switch to your **preview** tab in your browser and reload the tab with STRG+R (Windows) or COMMAND+R (Mac). This will reload the app and reveal the new columns Business and Destination.
+Once this is done, we want to preview the app again to see the newly created columns in action. Switch to your **preview** tab in your browser and reload the tab with CTRL+R (Windows) or COMMAND+R (Mac). This will reload the app and reveal the new columns Business and Destination.
 
 ![image](ex3img19.png)
 
@@ -107,16 +117,17 @@ Once this is done, we want to preview the app again to see the newly created col
 To reload the app with our generated Ai Mock Data we have to go to our Terminal at the bottom of the page. <br>
 Click inside of the terminal field and press:<br>
 **control + c (on Mac)**<br>
-**STRG + c (on Windwos)**<br>
+**CTRL + c (on Windows)**<br>
 
 You should now see<br>**(CDS) - my watch has ended<br>
 user: fiori-tools-ai $**
 
 ![image](ex3img191.png)
 
-Now you can press the **Preview** button on the left side again. 
+Repeat the steps to preview the application from earlier.
 
-![image](ex3img192.png)
+![image](ex3img5.png)
+![image](ex3img5-2.png)
 
 
 You may see a message in the terminal stating that the port is already in use (from previewing our application from exercise 1), click **Return/Enter** to use any other port for preview
@@ -140,7 +151,7 @@ Navigate to the Felxible Column Layout on the right side. Switch from the **Stan
 ![image](ex3img25.png)
 
 As a next step switch to you **Preview** tab again to reload your app with: <br>
-**STRG + R (Windows)**<br>
+**CTRL + R (Windows)**<br>
 **Command + R (Mac)** <br> 
 After this step click on the first item in the list to experience the flexible column layout.
 
@@ -150,18 +161,7 @@ Now click on the first line on the object page
 
 ![image](ex3img27.png)
 
-## Exercise 3.5 Accepting the project
-
-1. Please press **Accept Project* on the bottom right side of the screen. <br>
-2. Please select the first option from the dropdown **ai-images-sample**
-
-You now moved you project out of the staging area.
-
-![image](ex3img28.png)
-
-
-
-## Exercise 3.6 Using the Flexible Programming Model
+## Exercise 3.5 Using the Flexible Programming Model
 
 The available [SAP Fiori elements floorplans](https://help.sap.com/docs/SAP_FIORI_tools/17d50220bcd848aa854c9c182d65b699/2b2b12e708944d85a40d087194cc1edd.html) for OData V4 cover most business scenarios that customers encounter with SAP. In fact, SAP uses these SAP Fiori elements floorplans to create roughly 80% of new SAP S/4HANA apps.\
 If these floorplans do not meet your needs, the [flexible programming model](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/overview/introduction) provided by SAP Fiori elements allows to assemble your custom design by combining the available building blocks with SAPUI5 controls,\
@@ -190,7 +190,7 @@ Press the **Delete** button ![](image10.png) to delete section **Bookings**.
 ![](image9.png)
 
 If you run into the following Error, please reload BAS: <br>
-**STRG + R (Windows)**<br>
+**CTRL + R (Windows)**<br>
 **Command + R (Mac)** <br> 
 
 ![](image92.png)
@@ -375,6 +375,6 @@ The filter is applied to the bookings table.
 
 ## Summary
 
-You now have completed the Hands-on.Thank you very much for participating.
+You now have completed the Hands-on. Thank you very much for participating.
 
 
