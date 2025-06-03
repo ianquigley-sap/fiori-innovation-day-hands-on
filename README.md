@@ -4,7 +4,7 @@ From Sketch to Productive App: Build SAP Fiori Apps with GenAI
 ## Description
 
 This repository contains the material for the SAP Fiori Apps with GenAI (Hands-on) for using generative AI to build SAP Fiori apps.
-For particpants with their own laptop, please scan this QR code to get to the repository.
+For participants with their own laptop, please scan this QR code to get to the repository.
 
 Landscape:https://lcapteched.eu10.build.cloud.sap/lobby
 
