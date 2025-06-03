@@ -22,7 +22,7 @@ The Preview should look like this:
 
 ![image](ex3img3.png)
 
-If **Project folder path** appears in **Project Accelerator** appears please ensure that the path `/home/user/projects/ai-image-samples/` is inputted
+If **Project folder path** appears in **Project Accelerator**, please ensure that the path `/home/user/projects/ai-image-samples/` is inputted
 
 ![image](ex3img3-1.png)
 
