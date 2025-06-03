@@ -22,14 +22,17 @@ The Preview should look like this:
 
 ![image](ex3img3.png)
 
+If **Project folder path** appears in **Project Accelerator** appears please ensure that the path `/home/user/projects/ai-image-samples/` is inputted
+
+![image](ex3img3-1.png)
+
 Click **Generate**
 
 ![image](ex3img4.png)
 
 Once the app has been successfully generated
-1. Navigate back to the file explorer.
-2. Open the context menu using right click on the newly generated project.
-3. Then click **Preview Application**.
+1. A page should open named **Application Information**
+2. Click **Preview Application**.
 
 ![image](ex3img5.png)
 
@@ -45,10 +48,8 @@ The preview of the newly generated app should look like the following picture.
 
 As a next step we want to enhance our AI generated app. To do this switch back from your **Preview** tab in your browser to your **Business Application Studio** tab again. 
 
-1. Now, navigate to **SAP Fiori** in your Business Application Studio menu on the left side.
-2. Open the **Application Modeler** section
-3. Expand your project until you see **Map**
-4. Click on **Map** to open it
+1. Go to the **Application Information** page
+2. Click on **Open Page Map**
 
 ![image](ex3img7.png)
 
