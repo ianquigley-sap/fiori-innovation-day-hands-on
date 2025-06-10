@@ -14,7 +14,7 @@ Navigate to https://lcapteched.eu10.build.cloud.sap/lobby
 On the SAP Build landing page, click button **Switch Product** in the top right corner and select **Dev Space Manager**.<br>
 ![Access Dev Space Manager](ex0img0.png)
 
-Creating the Dev-Space
+## Creating the Development Space
 
 ![Create Dev Space](ex0img1.png)
 
