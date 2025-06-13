@@ -22,7 +22,7 @@ Choose the projects folder for the repository location and click **Select as Rep
 
 ![image](ex2img3.png)
 
-Click **Add to Workspace** to add the repository to the current workspace.
+Click **Cancel** to see the repository added under **projects** in the current workspace.
 
 ![image](ex2img4.png)
 
