@@ -18,11 +18,11 @@ Paste the repository link below into the input field and hit enter.
 https://github.com/ianquigley-sap/ai-image-samples
 ```
 
-Choose the projects folder for the repository location and click **OK**
+Choose the projects folder for the repository location and click **Select as Repository Destination**
 
 ![image](ex2img3.png)
 
-Click **Open** to open SAP Business Application Studio with the new repository
+Click **Cancel** to see the repository added under **projects** in the current workspace.
 
 ![image](ex2img4.png)
 
