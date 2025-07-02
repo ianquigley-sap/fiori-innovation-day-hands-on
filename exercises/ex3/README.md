@@ -147,7 +147,7 @@ As the next step we want to switch the layout of the app to the flexible column 
 
 ![image](ex3img24.png)
 
-Navigate to the Felxible Column Layout on the right side. Switch from the **Standard Layout** to the **Flexible Column Layout**. For the 2 column layout select **Mid-Expanded**.
+Navigate to the Felxible Column Layout on the right side. Switch on **Flexible Column Layout**. For the 2 column layout select **Mid-Expanded**.
 
 ![image](ex3img25.png)
 
