@@ -54,11 +54,11 @@ Click on the file icon in the top right of the screen to enable the settings fil
 
 ![image](ex0img7.png)
 
-You will be presented with a blank file apart from 2 curly braces:
+You will be presented with a json object of predefined configurations:
 
 ![image](ex0img8.png)
 
-Between the curly braces, enter the text:
+Add the following property to the json object, ensuring that it is separated by a comma:
 
 ```JSON
 "sap.ux.help.testBetaFeatures.enableFioriAIAppModeler": "165a0e31-35ea-4bee-8d47-b8593435a82g"
@@ -76,7 +76,7 @@ Open the explorer icon from the left hand side:
 
 ![image](ex0img10.png)
 
-And select **Open Folder** button
+And select the **Open Folder** button
 
 ![image](ex0img11.png)
 
@@ -84,7 +84,7 @@ Select the **Projects** folder from the drop down
 
 ![image](ex0img12.png)
 
-Click **OK** and your window will reload
+Click **Add** and your window will reload
 
 ![image](ex0img13.png)
 
