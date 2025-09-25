@@ -12,7 +12,7 @@ In the **SAP Business Application Studio**, the **projects** folder should be op
 
 ![image](ex1img2.png)
 
-The **SAP Fiori** panel launch, you can close the **Application Modeler** and **Information** sections, and keep the **Project Accelerator** section open
+After the **SAP Fiori** panel has launched, you can close the **Application Modeler** and **Information** sections, and click **Launch Project Accelerator**.
 
 ![image](ex1img3.png)
 
@@ -80,7 +80,7 @@ Start Date       Contract Data    Contract Details
 End Date         Contract Data    Contract Details
 ```
 
-Paste the text from the clipboard into the **Application Requirements** text box. The **Generate** button should then become enabled
+Paste the text from the clipboard into the **Business Requirements** text box. The **Generate** button should then become enabled
 
 ![image](ex1img5.png)
 
@@ -91,7 +91,6 @@ Click on the **Generate** button to start generating your application
 The application will start generating and go through each of the steps.  This can take some time.
 
 ![image](ex1img7.png)
-
 
 ## Exercise 1.3 Previewing the generated application
 
@@ -114,7 +113,7 @@ A new browser tab should launch with the generated application. Click between **
 
 ## Exercise 1.4 Providing your own business requirements for generation.
 
-Open the **SAP Fiori** panel again
+Return to the **Project Accelerator** tab again.
 
 ![image](ex1img12.png)
 
