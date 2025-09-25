@@ -80,11 +80,11 @@ And select the **Open Folder** button
 
 ![image](ex0img11.png)
 
-Select the **Projects** folder from the drop down
+Select the **projects** folder from the drop down
 
 ![image](ex0img12.png)
 
-Click **Add** and your window will reload
+Click **OK** and your window will reload
 
 ![image](ex0img13.png)
 
