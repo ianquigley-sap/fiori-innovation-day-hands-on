@@ -8,7 +8,7 @@ Please be aware that you need to complete: [Exercise 0 - Getting Started - Setti
 
 ## Exercise 3.1 Generate your app
 
-Navigate to you explorer in the business application studio and look for the **TravelScenario.png** picture. Double click on the picture to see the preview.
+Navigate to you explorer in the business application studio and look for the **TravelScenario.png** picture. Click on the picture to see the preview.
   
 ![image](ex3img1.png)
 
@@ -17,14 +17,11 @@ The Preview should look like this:
 ![image](ex3img2_2.png)
 
 1. Next, navigate to **SAP Fiori** in your Business Application Studio menu on the left side.
-2. Click on **Choose file (md, txt, jpg)**
-3. Select the **TravelScenario.png** from the drop down.
+1. Click on **Launch Project Accelerator**
+1. Click on **Choose file**
+1. Select the **TravelScenario.png** from the drop down.
 
 ![image](ex3img3.png)
-
-If **Project folder path** appears in **Project Accelerator**, please ensure that the path `/home/user/projects/ai-image-samples/` is inputted
-
-![image](ex3img3-1.png)
 
 Click **Generate**
 
@@ -53,7 +50,9 @@ As a next step we want to enhance our AI generated app. To do this switch back f
 
 ![image](ex3img7.png)
 
-Now you can see the page map for our AI generated Travel app. Please check if you can see the **Advanced Features Are Enabled** sign up top. If this is the case, press the edit button on the list report.
+Now you can see the page map for our AI generated Travel app. Please check if you can see the **Advanced features are enabled (Experimental)** sign up top. If this is the case, press the edit button on the list report.
+
+**Note:** If your generated application's page map does not look like this, consider re-generating the application.
 
 ![image](ex3img8.png)
 
@@ -62,7 +61,7 @@ Please find the columns section and press the **Add column** button.
 
 ![image](ex3img9.png)
 
-Now we want to select *Add Basic Columns** from the drop down menu.
+Now we want to select **Add Basic Columns** from the drop down menu.
 
 ![image](ex3img10.png)
 
@@ -79,7 +78,7 @@ In the input field, type in **Business** and set the checkmark on the left hand 
 
 ![image](ex3img13.png)
 
-Click Add.
+Click **Add**.
 
 ![image](ex3img14.png)
 
@@ -106,7 +105,7 @@ Once this is done, we want to preview the app again to see the newly created col
 
 ## Exercise 3.3 Use Ai to refine Test Data 
 
- If you successfully previewed the two new columns (Business and Destination). We can now press the **Use Ai to refine Test Data** Button. 
+ If you successfully previewed the two new columns (Business and Destination). We can now press the **Use Ai to refine Test Data** Button. To do this switch back from your **Preview** tab in your browser to your **Business Application Studio** tab again.
 
  ![image](ex3img21.png)
 
@@ -121,7 +120,7 @@ Click inside of the terminal field and press:<br>
 **CTRL + c (on Windows)**<br>
 
 You should now see<br>**(CDS) - my watch has ended<br>
-user: fiori-tools-ai $**
+user: ai-created-cap $**
 
 ![image](ex3img191.png)
 
@@ -174,7 +173,7 @@ Please click one the **SAP Fiori** button in the left hand navigation![](image2.
 
 ![](image1.png)
 
-Now open the **Open Application Info** on your most recently created app. Depending if you accomplished all exercises this should be ai-created-cap 5.  ![](image4.png).
+Now open the **Open Application Info** on your most recently created app. Depending if you accomplished all exercises this should be ai-created-cap 2.  ![](image4.png).
 
 ![](image3.png)
 
@@ -253,6 +252,12 @@ Select ![](image31.png).
 
 ![](image30.png)
 
+1. Click ![](image33.png) to reveal the dropdown for **Value Source**.
+
+2. Select **bookings**.
+
+![](image321.png)
+
 
 1. Click ![](image33.png) to reveal the dropdown for **Aggregation Path**.
 
@@ -291,7 +296,7 @@ In the page editor, click **Edit in source code** ![](image48.png) for filter fi
 
 ![](image47.png)
 
-For the filter field, we will now enable the usage of semantic date values, such as **Today** or **Last Week**, by applying annotation ****FilterRestrictions.AllowedExpressions** as described in [the documentation](https://ui5.sap.com/#/topic/fef65d03d01a4b2baca28983a5449cf7).\
+For the filter field, we will now enable the usage of semantic date values, such as **Today** or **Last Week**, by applying annotation **FilterRestrictions.AllowedExpressions** as described in [the documentation](https://ui5.sap.com/#/topic/fef65d03d01a4b2baca28983a5449cf7).\
 Please copy the Code snippet below and paste it on the exact position that is shown in the picture:
 
 ```
@@ -313,7 +318,7 @@ Switch to your preview tab to see the latest changes to your app. If you cant se
 ![](image50.png)
 
 Switch back to your Business application studio. We will now use **Guided Development** to add a table building block.\
-Guided development allows the user to walk through the steps required to implement a specific functionality in the Fiori element application.\
+Guided development allows the user to walk through the steps required to implement a specific functionality in the Fiori Elements application.\
 Click on the **SAP Fiori** icon in the left hand side panel.
 
 ![](image5321.png)
@@ -331,7 +336,7 @@ Close the **Application Info** tab to free up more space in the editor.
 ![](image532.png)
 
 1. Now use the search on the top right hand of the screen and type in **"Table Building Block"**
-2. Click on **"Add a table building block"**
+2. Click on **"Add a Table Building Block"**
 
 ![](image533.png)
 
@@ -364,7 +369,7 @@ In the second step of the guide, fill in the required fields as depicted below.
 
 Switch to your preview tab to see the result. You can now specify a range in the newly added filter bar.
 1. Select a travel entry in the List Report to open the travel details in the object page.
-2. In the **Bookings** section, open filter field **Flight Date** and select a date range.
+2. In the **Bookings** section, open filter field **Flight Date**, go to **Date Ranges** and select **From / To**.
 3. Click **Apply**.
 
 ![](image56.png)
