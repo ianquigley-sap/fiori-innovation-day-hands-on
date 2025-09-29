@@ -4,6 +4,12 @@ In this exercise, we will create a number of SAP Fiori apps, but instead of usin
 
 ## Exercise 2.1 Downloading the sample images into SAP Business Application Studio
 
+Copy the repository link below:
+
+```
+https://github.com/ianquigley-sap/ai-image-samples
+```
+
 From the menu select **View -> Command Palette**.
 
 ![image](ex2img1.png)
@@ -12,11 +18,7 @@ Search for command **git clone** and select it.
 
 ![image](ex2img2.png)
 
-Paste the repository link below into the input field and hit enter.
-
-```
-https://github.com/ianquigley-sap/ai-image-samples
-```
+Paste the repository link into the input field and hit enter.
 
 Choose the projects folder for the repository location and click **Select as Repository Destination**.
 

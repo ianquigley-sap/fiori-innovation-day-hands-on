@@ -8,7 +8,7 @@ Please be aware that you need to complete: [Exercise 0 - Getting Started - Setti
 
 ## Exercise 3.1 Generate your app
 
-Navigate to you explorer in the business application studio and look for the **TravelScenario.png** picture. Double click on the picture to see the preview.
+Navigate to you explorer in the business application studio and look for the **TravelScenario.png** picture. Click on the picture to see the preview.
   
 ![image](ex3img1.png)
 
@@ -171,7 +171,7 @@ Please click one the **SAP Fiori** button in the left hand navigation![](image2.
 
 ![](image1.png)
 
-Now open the **Open Application Info** on your most recently created app. Depending if you accomplished all exercises this should be ai-created-cap 5.  ![](image4.png).
+Now open the **Open Application Info** on your most recently created app. Depending if you accomplished all exercises this should be ai-created-cap 2.  ![](image4.png).
 
 ![](image3.png)
 
@@ -316,7 +316,7 @@ Switch to your preview tab to see the latest changes to your app. If you cant se
 ![](image50.png)
 
 Switch back to your Business application studio. We will now use **Guided Development** to add a table building block.\
-Guided development allows the user to walk through the steps required to implement a specific functionality in the Fiori element application.\
+Guided development allows the user to walk through the steps required to implement a specific functionality in the Fiori Elements application.\
 Click on the **SAP Fiori** icon in the left hand side panel.
 
 ![](image5321.png)
