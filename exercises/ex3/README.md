@@ -114,25 +114,7 @@ Once this is done, we want to preview the app again to see the newly created col
  ![image](ex3img22.png)
 
 
-To reload the app with our generated Ai Mock Data we have to go to our Terminal at the bottom of the page. <br>
-Click inside of the terminal field and press:<br>
-**control + c (on Mac)**<br>
-**CTRL + c (on Windows)**<br>
-
-You should now see<br>**(CDS) - my watch has ended<br>
-user: ai-created-cap $**
-
-![image](ex3img191.png)
-
-Repeat the steps to preview the application from earlier.
-
-![image](ex3img5.png)
-![image](ex3img5-2.png)
-
-
-You may see a message in the terminal stating that the port is already in use (from previewing our application from exercise 1), click **Return/Enter** to use any other port for preview
-
-![image](ex3img20.png)
+Once this is done, we want to preview the app again to see the newly created data. Switch to your preview tab in your browser and reload the tab with CTRL+R (Windows) or COMMAND+R (Mac). This will reload the app and reveal the new data for the columns Business and Destination.
 
 You can now see your Ai Mock Data in the preview.
 
