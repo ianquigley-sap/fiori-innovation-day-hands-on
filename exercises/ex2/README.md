@@ -73,4 +73,4 @@ The application should launch in a new browser tab. Click **Go** to see the samp
 
 You've now successfully generated a SAP Fiori app using a sketch of the application you'd like to generate.
 
-Continue to - [Exercise 3 - Generate an SAP Fiori app using images and text](../ex3/README.md)
+Continue to - [Exercise 3 -  Generate and enhance an app](../ex3/README.md)
