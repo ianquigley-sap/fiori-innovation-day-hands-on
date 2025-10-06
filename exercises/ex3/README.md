@@ -56,7 +56,7 @@ Now you can see the page map for our AI generated Travel app. Please check if yo
 
 ![image](ex3img8.png)
 
-As the next step, we want to add an additional column that indicates wether it is a business flight, and another one showing the flight destination.\
+As the next step, we want to add an additional column that indicates whether it is a business flight, and another one showing the flight destination.\
 Please find the columns section and press the **Add column** button.
 
 ![image](ex3img9.png)
